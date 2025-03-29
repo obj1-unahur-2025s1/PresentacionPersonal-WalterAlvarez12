@@ -9,5 +9,6 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo una perrita llamada Lola
+- Tengo una perrita llamada Lolita
+
 ![lola](./lola.jpg)
