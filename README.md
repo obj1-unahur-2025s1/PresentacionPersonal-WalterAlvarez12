@@ -6,7 +6,7 @@
 ### Datos Personales
 - Mi nombre es: Walter Alvarez
 - Vivo en Hurlingham
-
+- Tengo 24 años
 
 ### Otra Información
 - Este es mi primer contacto con github
