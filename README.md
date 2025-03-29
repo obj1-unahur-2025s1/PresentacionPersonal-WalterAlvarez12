@@ -1,5 +1,4 @@
 ![Logo UNAHUR](./UNAHUR.png)
-
 # Programación con objetos I
 ## Presentación Personal
 
@@ -11,3 +10,4 @@
 ### Otra Información
 - Este es mi primer contacto con github
 - Tengo una perrita llamada Lola
+![lola](./lola.jpg)
